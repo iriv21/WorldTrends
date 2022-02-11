@@ -38,7 +38,7 @@ sns.set()
 
 
 # import the file path
-demographics_data = pd.read_csv('/Users/irisvargas/Documents/practice python/demographics.csv')
+demographics_data = pd.read_csv('/Users/irisvargas/Documents/homework/Demographic Data/demographics.csv')
 # print(demographics_data)
 
 # Rename Columns
